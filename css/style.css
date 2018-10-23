@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Impact;
+    src: url(fonts/impact.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
